@@ -1,7 +1,7 @@
 #!/bin/bash
-# Tejasinstahack v1.0
+# tejasinstafollow v1.0
 # coded by: @linux_choice
-# github.com/thelinuxchoice/Tejasinstahack
+# github.com/thelinuxchoice/tejasinstafollow
 # If you use any part from this code, give me the credits, please, read the License
 
 
@@ -22,15 +22,14 @@ ig_sig="4f8732eb9ba7d1c8e8897a75d6474d4eb3f5279137431b2aafb71fafe2abe178"
 
 banner() {
 printf " \n"
-_____     _             ___ _   _
-|_   _|__ (_) __ _ ___  |_ _| | | |
-  | |/ _ \| |/ _` / __|  | || |_| |
-  | |  __/| | (_| \__ \  | ||  _  |
-  |_|\___|/ |\__,_|___/ |___|_| |_|
-        |__/ 
-printf" \n"
+printf " \e[1;31mM\"\"M\e[0m\e[1;77m                   \e[0m\e[1;93mdP                         dP       \e[0m\e[1;77mdP           \e[0m\n"
+printf " \e[1;31mM  M\e[0m\e[1;77m                   \e[0m\e[1;93m88                         88       \e[0m\e[1;77m88           \e[0m\n"
+printf " \e[1;31mM  M\e[0m\e[1;77m Tejas. .Tejas. \e[0m\e[1;93mTejas. .Tejas. .Tejas. 88  .dP  \e[0m\e[1;77m88 .Tejas.  \e[0m\n"
+printf " \e[1;31mM  M\e[0m\e[1;77m 88'  \`88 Y8ooooo. \e[0m\e[1;93m88\'  \`88 88\'  \`88 88'  \`\"\" Tejas\"   \e[0m\e[1;77m88 Tejas  \e[0m\n"
+printf " \e[1;31mMMMM\e[0m                                                                    \n"
+printf "\n"
 
-printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m github.com/thelinuxchoice/Tejasinstahack\e[0m\n"
+printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m github.com/thelinuxchoice/tejasinstafollow\e[0m\n"
 }
 
 
