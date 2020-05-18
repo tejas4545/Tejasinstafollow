@@ -24,10 +24,10 @@ banner() {
 printf " \n"
 printf " \e[1;31mT\"\"T\e[0m\e[1;77m                                                  
 printf " \e[1;31mMade\e[0m\e[1;77m                                            
-printf " \e[1;31mT   by\e[0m\e[1;77m      
-printf " \e[1;31mT      Tejas\e[0m\e[1;77m           
-printf " \e[1;31mT            Hacker\e[0m\e[1;77m                        
-printf " \e[1;31mT                 Enjoy free followers by me.. \e[0m\e[1;77m     
+printf " \e[1;31mby\e[0m\e[1;77m      
+printf " \e[1;31mTejas\e[0m\e[1;77m           
+printf " \e[1;31mHacker\e[0m\e[1;77m                        
+printf " \e[1;31mEnjoy free followers by me.. \e[0m\e[1;77m     
 printf "\n"
 
 printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m github.com/thelinuxchoice/Tejasinstafollow\e[0m\n"
