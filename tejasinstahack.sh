@@ -20,16 +20,6 @@ ig_sig="4f8732eb9ba7d1c8e8897a75d6474d4eb3f5279137431b2aafb71fafe2abe178"
 
 
 
-banner() {
-printf " \n"
-printf "       \e[1;31mT\"\"T\e[0m\e[1;77m                                                  
-printf "       \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m Made\e[0m\n"
-printf  "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m by\e[0m\n" 
-printf "       \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m Tejas\e[0m\n"
-printf "       \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m Hacker\e[0m\n"
-printf "       \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m Enjoy free followers by me\e[0m\n"
-printf "\n"
-
 printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m github.com/thelinuxchoice/Tejasinstafollow\e[0m\n"
 }
 
