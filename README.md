@@ -1,6 +1,8 @@
-# Tejasinstafollow
-copy version edition. Pay me some cookies bitcoin adress-1JbGADGXhL89LoTKWBrbjgSVcFEPatdVEj
+# Tejasinstahack
 
+#made by me....  Pay me some cookies bitcoin adress-1JbGADGXhL89LoTKWBrbjgSVcFEPatdVEj
+
+#It increase your instagram followers 
 
 ¢=pkg inatall git
 
