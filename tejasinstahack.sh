@@ -22,12 +22,12 @@ ig_sig="4f8732eb9ba7d1c8e8897a75d6474d4eb3f5279137431b2aafb71fafe2abe178"
 
 banner() {
 printf " \n"
-printf " \e[1;31mM\"\"M\e[0m\e[1;77m                   \e[0m\e[1;93mdP                         dP       \e[0m\e[1;77mdP           \e[0m\n"
-printf " \e[1;31mM  M\e[0m\e[1;77m                   \e[0m\e[1;93m88                         88       \e[0m\e[1;77m88           \e[0m\n"
-printf " \e[1;31mM  M\e[0m\e[1;77m 777777777777. E eeeee\e[0m\e[1;93m.            JJJJJJJ           A  \e[0m\e[1;77m              jjjj   \e[0m\n"
-printf " \e[1;31mM  M\e[0m\e[1;77m        \`11.              E ,,,,,,,,       \e[0m\e[1;93m.               J                A   A \e[0m\e[1;77m         jjj     jjjj      \e[0m\n"
-printf " \e[1;31mM  M\e[0m\e[1;77m           11               E              \e[0m\e[1;93m.       J      J              AaaaA \e[0m\e[1;77m         jjj              \e[0m\n"
-printf " \e[1;31mM  M\e[0m\e[1;77m dP     11.              E eeeee   ' \e[0m\e[1;93m.       J J J            A         A  \e[0m\e[1;77m           jjj             \e[0m\n"
+printf " \e[1;31mT\"\"T\e[0m\e[1;77m                                                  
+printf " \e[1;31mMade\e[0m\e[1;77m                                            
+printf " \e[1;31mT   by\e[0m\e[1;77m      
+printf " \e[1;31mT      Tejas\e[0m\e[1;77m           
+printf " \e[1;31mT            Hacker\e[0m\e[1;77m                        
+printf " \e[1;31mT                 Enjoy free followers by me.. \e[0m\e[1;77m     
 printf "\n"
 
 printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m github.com/thelinuxchoice/Tejasinstafollow\e[0m\n"
