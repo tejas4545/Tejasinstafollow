@@ -22,12 +22,12 @@ ig_sig="4f8732eb9ba7d1c8e8897a75d6474d4eb3f5279137431b2aafb71fafe2abe178"
 
 banner() {
 printf " \n"
-printf " \e[1;31mM\"\"H\e[0m\e[1;77m                   \e[0m\e[1;93mdP                         dP       \e[0m\e[1;77mdP           \e[0m\n"
-printf " \e[1;31mT  A\e[0m\e[1;77m                   \e[0m\e[1;93m                         88       \e[0m\e[1;77m           \e[0m\n"
-printf " \e[1;31mE  C\e[0m\e[1;77m . .. \e[0m\e[1;93m. .. ..   .dP  \e[0m\e[1;77..  \e[0m\n"
-printf " \e[1;31mJ  K\e[0m\e[1;77m '  \` . \e[0m\e[1;93m\'  \`\'  \`'  \`\"\" \"   \e[0m\e[1;77  \e[0m\e[0m\n"
-printf " \e[1;31mA  E\e[0m\e[1;77m             \e[0m\e[1;93m    .  ..  ...   \`. \e[0m\e[1;77m.  ...  \e[0m\n"
-printf " \e[1;31mS  R\e[0m\e[1;77m dP    dP \`\' \e[0m\e[1;93mdP    dP \` \`\' dP   \`YP \e[0m\e[1;77mdP \`\'  \e[0m\n"
+printf " \e[1;31mM\"H\e[0m\e[1;77m                   \e[0m\e[1;93m                             \e[0m\e[1;77m           \e[0m\n"
+printf " \e[1;31mT  A\e[0m\e[1;77m                   \e[0m\e[1;93m                                \e[0m\e[1;77m           \e[0m\n"
+printf " \e[1;31mE  C\e[0m\e[1;77m \e[0m\e[1;93m.  \e[0m\e[1;77  \e[0m\n"
+printf " \e[1;31mJ  K\e[0m\e[1;77m '   \e[0m\e[1;93m\'    \e[0m\e[1;77  \e[0m\e[0m\n"
+printf " \e[1;31mA  E\e[0m\e[1;77m             \e[0m\e[1;93m       \e[0m\e[1;77m.    \e[0m\n"
+printf " \e[1;31mS  R\e[0m\e[1;77m      \e[0m\e[1;93m     \e[0m\e[1;77m   \e[0m\n"
 printf " \e[1;31mMMMM\e[0m                                                                    \n"
 printf "\n"
 
